@@ -1,0 +1,29 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Schedule"
+url = "/schedule"
+weight = 2
+
+[[main]]
+name = "Organisers"
+url = "/organisers"
+weight = 3
+
+
+# footer menu
+[[footer]]
+name = "Schedule"
+url = "/schedule"
+weight = 1
+
+[[footer]]
+name = "Organisers"
+url = "/organisers"
+weight = 2
