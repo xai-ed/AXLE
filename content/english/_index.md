@@ -1,13 +1,14 @@
 ---
 # Banner
 banner:
-  title: "Workshop 2026"
-  content: "Exploring the Future of Education, Learning Analytics, and Technology-Enhanced Learning.<br><br>**Date:** TBD, 2026 &nbsp;|&nbsp; **Location:** TBD<br>Part of [Conference Name](https://example.com)"
+  title: "AXLE: Agency-driven eXplainable Learning Experiences Workshop"
+  content: "Reframing Explainability as a Design Challenge for Accountable, Equitable, and Agency-Supportive AI in Education.<br><br>**Date:** June 27-28, 2026 &nbsp;|&nbsp; **Location:** COEX Center, Seoul, Republic of Korea<br>Part of **[Festival of Learning 2026](https://festival-of-learning-2026.info/)**"
   image: "/images/banner.png"
   button:
     enable: true
     label: "Register"
-    link: "#"
+    link: "https://festival-of-learning-2026.info/registration/"
+    note: "Registration to the main event is required"
 
 # Features
 features:

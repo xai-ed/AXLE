@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Workshop@Festival of Learning 2026"
+logo_text = "AXLE@Festival of Learning 2026"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Workshop 2026"
+copyright = "XAI-ED: AXLE Workshop"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -39,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Register"
-link = "#"
+link = "https://festival-of-learning-2026.info/registration/"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
@@ -63,8 +63,8 @@ content = ""
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Workshop", "Education", "Conference", "2026"]
-description = "Workshop 2026 — Exploring the future of education and learning"
-author = "Workshop 2026"
+description = "AXLE: Agency-driven eXplainable Learning Experiences Workshop"
+author = "XAI-ED: AXLE 2026 Workshop"
 twitter = ""
 image = "images/og-image.png"
 
