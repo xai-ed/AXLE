@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-meta_title: "Schedule — Workshop 2026"
+meta_title: "Schedule — AXLE"
 description: "Programme schedule for the Workshop 2026"
 draft: false
 ---

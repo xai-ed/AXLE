@@ -1,5 +1,5 @@
 ---
 title: "Organisers"
-meta_title: "Organisers — Workshop 2026"
+meta_title: "Organisers — AXLE"
 description: "The organising committee of the Workshop 2026"
 ---
