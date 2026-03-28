@@ -13,7 +13,7 @@ banner:
 # Features
 features:
   - title: "Why attend AXLE?"
-    image: "/images/service-1.png"
+    image: "/images/why_attend.png"
     content: >-
       AI systems increasingly shape assessment, feedback, and instruction in
       education, yet they introduce risks of opacity, bias, and erosion of
@@ -32,7 +32,7 @@ features:
       link: ""
 
   - title: "Goals and Objectives"
-    image: "/images/goals.png"
+    image: "/images/goals_4.png"
     content: "In this workshop, we explore how educational AI can be co-designed to preserve meaningful human agency. In addition to specific explanation techniques, we target the conditions under which explainability contributes to responsible adoption. We aim to:"
     bulletpoints:
       - "Articulate an agency-oriented design perspective"
@@ -46,7 +46,7 @@ features:
       link: ""
 
   - title: "Expected Outcomes"
-    image: "/images/service-3.png"
+    image: "/images/outcomes_4.png"
     content: "The workshop is designed to produce community-driven outputs that extend beyond the event itself. Among those, we ait to dicsuss"
     bulletpoints:
       - "A conceptual framework if user-driven XAI in edcuation"

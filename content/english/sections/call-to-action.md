@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Interested in Attending?"
-image: "/images/call-to-action.png"
+image: "/images/register.png"
 description: "Join us at the Workshop 2026 to explore the latest in education, learning analytics, and technology-enhanced learning."
 button:
   enable: true
