@@ -32,7 +32,7 @@ features:
       link: ""
 
   - title: "Goals and Objectives"
-    image: "/images/goals_4.png"
+    image: "/images/goals.png"
     content: "In this workshop, we explore how educational AI can be co-designed to preserve meaningful human agency. In addition to specific explanation techniques, we target the conditions under which explainability contributes to responsible adoption. We aim to:"
     bulletpoints:
       - "Articulate an agency-oriented design perspective"
