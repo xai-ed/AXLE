@@ -12,28 +12,34 @@ banner:
 
 # Features
 features:
-  - title: "About the Festival"
+  - title: "Why attend AXLE?"
     image: "/images/service-1.png"
-    content: "The Workshop 2026 brings together researchers, educators, practitioners, and policymakers to explore the latest advances in learning science, educational technology, and learning analytics. This event provides a unique platform for sharing innovative research, best practices, and emerging trends that shape the future of education."
-    bulletpoints:
-      - "A forum for interdisciplinary exchange between education researchers and practitioners"
-      - "Bridging the gap between learning science research and classroom practice"
-      - "Fostering collaboration across institutions and disciplines"
+    content: >-
+      AI systems increasingly shape assessment, feedback, and instruction in
+      education, yet they introduce risks of opacity, bias, and erosion of
+      professional judgment. The rise of LLMs and agentic AI makes this more
+      urgent, as these tools can produce an appearance of transparency that doesn't
+      reflect their actual reasoning. This workshop argues for moving beyond
+      post-hoc explanations toward explainability-by-design, treating
+      transparency as a core design constraint shaped by stakeholder goals,
+      decision rights, and educational values across the entire AI life cycle.
+      Bringing together researchers from AIED, EDM, and L@S, we re-frame
+      explainability as a socio-technical challenge central to accountability,
+      equity, and human agency in education.
     button:
       enable: false
       label: ""
       link: ""
 
   - title: "Goals and Objectives"
-    image: "/images/service-2.png"
-    content: "The Workshop 2026 aims to advance the conversation around key challenges and opportunities in modern education."
+    image: "/images/goals.png"
+    content: "In this workshop, we explore how educational AI can be co-designed to preserve meaningful human agency. In addition to specific explanation techniques, we target the conditions under which explainability contributes to responsible adoption. We aim to:"
     bulletpoints:
-      - "Explore innovative approaches to teaching and learning in diverse educational contexts"
-      - "Foster interdisciplinary exchange between researchers, educators, and technologists"
-      - "Promote equity and inclusion in educational technology and practice"
-      - "Evaluate and share evidence-based methods for improving learning outcomes"
-      - "Discuss the role of AI and learning analytics in supporting learners and educators"
-      - "Develop strategies for institutional adoption of research-informed practices"
+      - "Articulate an agency-oriented design perspective"
+      - "Connect technical transparency to educational practice"
+      - "Identify life cycle challenges of XAI in edcuation"
+      - "Promote interdisciplinary exchange between researchers, educators, and technologists"
+      - "Develop a cross-disciplinary research agenda"
     button:
       enable: false
       label: ""
@@ -41,12 +47,12 @@ features:
 
   - title: "Expected Outcomes"
     image: "/images/service-3.png"
-    content: "By participating in the Workshop 2026, attendees will gain insights and connections that advance both research and practice in education."
+    content: "The workshop is designed to produce community-driven outputs that extend beyond the event itself. Among those, we ait to dicsuss"
     bulletpoints:
-      - "A shared understanding of current challenges and opportunities in learning and education"
-      - "New collaborative networks between researchers, practitioners, and policymakers"
-      - "Actionable insights for integrating innovative approaches into educational practice"
-      - "Published proceedings capturing the state of the art in learning science and technology"
+      - "A conceptual framework if user-driven XAI in edcuation"
+      - "Concrete principles for maintaining educational stakeholder agency"
+      - "A research agenda addressing priority research directions"
+      - "Cross-community network to enable sustained connections on XAI in education topic researche across AIED, EDM, and L@S"
     button:
       enable: true
       label: "View Schedule"

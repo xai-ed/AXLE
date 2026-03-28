@@ -5,21 +5,15 @@ description: "Programme schedule for the Workshop 2026"
 draft: false
 ---
 
-The detailed programme schedule will be announced after the review process is complete.
+### Programme Schedule
 
-### Tentative Programme
-
-| Time | Activity |
-|---|---|
-| TBD | Welcome and Opening Remarks |
-| TBD | Keynote Speaker |
-| TBD | Paper Session 1 |
-| TBD | Coffee Break |
-| TBD | Paper Session 2 |
-| TBD | Lunch Break |
-| TBD | Poster Session |
-| TBD | Paper Session 3 |
-| TBD | Panel Discussion |
-| TBD | Closing Remarks |
-
-Please check back for updates as the programme is finalised.
+| Duration | Activity | Type of Activity |
+|---|---|---|
+| 20 min | Welcome and framing: introduction to workshop goals, positioning within AIED/EDM/L@S, participant introductions | Presentation |
+| 30 min | Invited Keynote | Talk |
+| 45 min | Interactive Activity 1: Mapping explainability across the AI life cycle (data, modeling, interface, deployment) | Group activity |
+| 15 min | Break | Discussion |
+| 30 min | Plenary exchange on challenges of explainability and human agency in education | Discussion |
+| 45 min | Interactive Activity 2: Designing for agency: co-design of explanation mechanisms for AI in education | Group activity |
+| 20 min | Synthesis session: identifying design principles and research agenda | Discussion |
+| 15 min | Closing discussion and next steps (collaboration and dissemination plans) | Discussion |
