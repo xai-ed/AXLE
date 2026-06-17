@@ -3,7 +3,7 @@
 banner:
   title: "AXLE: Agency-driven eXplainable Learning Experiences Workshop"
   content: "Reframing Explainability as a Design Challenge for Accountable, Equitable, and Agency-Supportive AI in Education.<br><br>**Date:** June 27, 2026 (14:00h-18:00h) &nbsp;|&nbsp; **Location:** COEX Center, Seoul, Republic of Korea<br>Part of **[Festival of Learning 2026](https://festival-of-learning-2026.info/)**"
-  image: "/images/banner.png"
+  image: ""
   button:
     enable: true
     label: "Register"

@@ -7,23 +7,45 @@ url = "/"
 weight = 1
 
 [[main]]
+name = "Keynote"
+url = "/keynote"
+weight = 2
+
+# Hidden until content confirmed
+# [[main]]
+# name = "Panel"
+# url = "/panel"
+# weight = 3
+
+[[main]]
 name = "Schedule"
 url = "/schedule"
-weight = 2
+weight = 4
 
 [[main]]
 name = "Organisers"
 url = "/organisers"
-weight = 3
+weight = 5
 
 
 # footer menu
 [[footer]]
+name = "Keynote"
+url = "/keynote"
+weight = 1
+
+# Hidden until content confirmed
+# [[footer]]
+# name = "Panel"
+# url = "/panel"
+# weight = 2
+
+[[footer]]
 name = "Schedule"
 url = "/schedule"
-weight = 1
+weight = 3
 
 [[footer]]
 name = "Organisers"
 url = "/organisers"
-weight = 2
+weight = 4
