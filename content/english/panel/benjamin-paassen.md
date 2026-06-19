@@ -2,7 +2,7 @@
 title: Benjamin Paaßen
 email: ""
 image: "/images/benjamin.jpg"
-description: "Bielefeld University"
+description: "Bielefeld University<br>&nbsp;"
 weight: 1
 social:
   - name: scholar

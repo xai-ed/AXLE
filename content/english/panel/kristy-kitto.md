@@ -2,7 +2,7 @@
 title: Kristy Kitto
 email: ""
 image: "/images/kristy-kitto.jpeg"
-description: "University of Bergen"
+description: "University of Bergen<br>&nbsp;"
 weight: 3
 social:
 

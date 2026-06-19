@@ -2,7 +2,7 @@
 title: Hassan Khosravi 
 email: h.khosravi@uq.edu.au
 image: "/images/Hassan_Khosravi.jpeg"
-description: "University of Queensland"
+description: "University of Queensland<br>&nbsp;"
 weight: 2
 social:
 
