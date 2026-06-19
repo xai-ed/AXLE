@@ -95,6 +95,52 @@
   {{ end }}
   <!-- /Keynote frame -->
 
+  <!-- Panel frame -->
+  {{ with site.GetPage "sections/panel" }}
+    {{ if .Params.enable }}
+      <section class="section-sm pt-10 pb-0">
+        <div class="container">
+          <div class="row justify-center">
+            <div class="lg:col-8">
+              <div class="bg-light dark:bg-darkmode-light rounded-lg p-8">
+                {{ with .Params.label }}
+                  <span class="text-text-light font-secondary mb-1 inline-block text-sm uppercase tracking-wider">
+                    {{ . }}
+                  </span>
+                {{ end }}
+                <h3 class="h5 mb-2">{{ .Params.title | markdownify }}</h3>
+                {{ with .Params.description }}
+                  <p class="mb-5">{{ . | markdownify }}</p>
+                {{ end }}
+                {{ with (site.GetPage "panel") }}
+                  <div class="flex flex-wrap gap-4">
+                    {{ range .RegularPages }}
+                      {{ $panelist := . }}
+                      {{ with .Params.image }}
+                        <a href="{{ $panelist.RelPermalink }}" title="{{ $panelist.Title }}">
+                          {{ partial "image" (dict "Src" . "Context" $panelist.Page "Alt" $panelist.Title "Class" "rounded w-[64px] h-[64px] object-cover" "size" "64x64") }}
+                        </a>
+                      {{ end }}
+                    {{ end }}
+                  </div>
+                {{ end }}
+                {{ with .Params.button }}
+                  {{ if .enable }}
+                    <a class="btn btn-primary btn-sm mt-6" href="{{ (site.GetPage .link).RelPermalink }}">
+                      {{ .label }}
+                      <i class="fa fa-arrow-right pl-2"></i>
+                    </a>
+                  {{ end }}
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    {{ end }}
+  {{ end }}
+  <!-- /Panel frame -->
+
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
     <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
