@@ -1,5 +1,5 @@
 ---
-title: Kristy Kitto
+title: Kirsty Kitto
 email: ""
 image: "/images/kristy-kitto.jpeg"
 description: "University of Bergen<br>&nbsp;"
